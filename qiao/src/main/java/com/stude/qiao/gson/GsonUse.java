@@ -1,3 +1,5 @@
+package com.stude.qiao.gson;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.annotations.SerializedName;
@@ -7,6 +9,7 @@ import java.util.List;
 
 /**
  * Created on 2019/4/2.
+ * https://www.cnblogs.com/qinxu/p/9504412.html
  * Gson 的用法
  * @author hy
  * @since 1.0
