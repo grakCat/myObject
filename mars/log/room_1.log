@@ -1,0 +1,120 @@
+2019-04-01 14:14:48 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Starting ConfigtestApplication on DESKTOP-EBS83FS with PID 22816 (D:\HouYongGit\mars\target\classes started by 侯勇 in D:\HouYongGit\mars)
+2019-04-01 14:14:48 [main] DEBUG - org.gars.mars.configtest.ConfigtestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-04-01 14:14:48 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - The following profiles are active: dev
+2019-04-01 14:14:49 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-01 14:14:49 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-01 14:14:49 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 41ms. Found 0 repository interfaces.
+2019-04-01 14:14:50 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-04-01 14:14:50 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-04-01 14:14:50 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-04-01 14:14:50 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2019-04-01 14:14:50 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-04-01 14:14:50 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-04-01 14:14:50 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-04-01 14:14:50 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@7da31a40
+2019-04-01 14:14:50 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2019-04-01 14:14:50 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-04-01 14:14:50 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Started ConfigtestApplication in 3.221 seconds (JVM running for 4.527)
+2019-04-01 14:14:50 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2019-04-01 14:14:50 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2019-04-01 14:14:50 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2019-04-01 14:14:50 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2019-04-01 14:14:51 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2019-04-01 14:14:51 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2019-04-01 14:15:21 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=lsyguimajiang.xlsx
+2019-04-01 14:15:21 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - on file change filename = lsyguimajiang.xlsx,isNew=false
+2019-04-01 14:16:31 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=lsyguimajiang.xlsx
+2019-04-01 14:16:31 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - on file change filename = lsyguimajiang.xlsx,isNew=false
+2019-04-01 14:16:43 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Starting ConfigtestApplication on DESKTOP-EBS83FS with PID 32680 (D:\HouYongGit\mars\target\classes started by 侯勇 in D:\HouYongGit\mars)
+2019-04-01 14:16:43 [main] DEBUG - org.gars.mars.configtest.ConfigtestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-04-01 14:16:43 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - The following profiles are active: dev
+2019-04-01 14:16:44 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-01 14:16:44 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-01 14:16:44 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29ms. Found 0 repository interfaces.
+2019-04-01 14:16:45 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-04-01 14:16:45 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-04-01 14:16:45 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-04-01 14:16:45 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2019-04-01 14:16:45 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-04-01 14:16:45 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-04-01 14:16:45 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-04-01 14:16:45 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@41ad373
+2019-04-01 14:16:45 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2019-04-01 14:16:45 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-04-01 14:16:45 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Started ConfigtestApplication in 2.966 seconds (JVM running for 4.337)
+2019-04-01 14:16:45 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2019-04-01 14:17:05 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2019-04-01 14:19:14 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2019-04-01 14:19:15 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2019-04-01 14:20:44 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Starting ConfigtestApplication on DESKTOP-EBS83FS with PID 12448 (D:\HouYongGit\mars\target\classes started by 侯勇 in D:\HouYongGit\mars)
+2019-04-01 14:20:44 [main] DEBUG - org.gars.mars.configtest.ConfigtestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-04-01 14:20:44 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - The following profiles are active: dev
+2019-04-01 14:20:45 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-01 14:20:45 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-01 14:20:45 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32ms. Found 0 repository interfaces.
+2019-04-01 14:20:46 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-04-01 14:20:46 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-04-01 14:20:46 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-04-01 14:20:46 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2019-04-01 14:20:46 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-04-01 14:20:46 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-04-01 14:20:46 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-04-01 14:20:46 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@3d90eeb3
+2019-04-01 14:20:46 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2019-04-01 14:20:46 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-04-01 14:20:46 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Started ConfigtestApplication in 2.971 seconds (JVM running for 4.332)
+2019-04-01 14:20:46 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2019-04-01 14:20:55 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2019-04-01 14:20:55 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2019-04-01 14:20:55 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2019-04-01 14:21:02 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Starting ConfigtestApplication on DESKTOP-EBS83FS with PID 31308 (D:\HouYongGit\mars\target\classes started by 侯勇 in D:\HouYongGit\mars)
+2019-04-01 14:21:02 [main] DEBUG - org.gars.mars.configtest.ConfigtestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-04-01 14:21:02 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - The following profiles are active: dev
+2019-04-01 14:21:03 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-01 14:21:03 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-01 14:21:03 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29ms. Found 0 repository interfaces.
+2019-04-01 14:21:04 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-04-01 14:21:04 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-04-01 14:21:04 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-04-01 14:21:04 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2019-04-01 14:21:04 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-04-01 14:21:04 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-04-01 14:21:04 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-04-01 14:21:04 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@7dffda8b
+2019-04-01 14:21:04 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2019-04-01 14:21:04 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-04-01 14:21:04 [main] INFO  - org.gars.mars.configtest.ConfigtestApplication - Started ConfigtestApplication in 3.257 seconds (JVM running for 4.604)
+2019-04-01 14:21:04 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2019-04-01 14:21:33 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2019-04-01 14:21:33 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2019-04-01 14:21:33 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2019-04-01 14:22:16 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2019-04-01 14:22:16 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动

@@ -1,0 +1,1135 @@
+2018-12-29 09:57:31 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 4976 (started by gray in K:\stude\笔记\mars)
+2018-12-29 09:57:31 [main] DEBUG - org.gars.mars.configtest.jsonConfig.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 09:57:31 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsontestApplication - The following profiles are active: dev
+2018-12-29 09:57:32 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 09:57:32 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 09:57:32 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 09:57:33 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 09:57:33 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 09:57:33 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 09:57:33 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@4e868ef5
+2018-12-29 09:57:33 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 09:57:33 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsontestApplication - Started JsontestApplication in 2.643 seconds (JVM running for 3.501)
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 09:57:33 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 09:57:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 10:36:34 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 12352 (started by gray in K:\stude\笔记\mars)
+2018-12-29 10:36:34 [main] DEBUG - org.gars.mars.configtest.jsonConfig.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 10:36:34 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsontestApplication - The following profiles are active: dev
+2018-12-29 10:36:35 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 10:36:35 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 10:36:35 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 10:36:36 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 10:36:36 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 10:36:36 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 10:36:36 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 10:36:36 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 10:36:36 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 10:36:36 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 10:36:36 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@3762c4fc
+2018-12-29 10:36:36 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 10:36:36 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 10:36:36 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsontestApplication - Started JsontestApplication in 2.712 seconds (JVM running for 3.432)
+2018-12-29 10:36:55 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 10:36:55 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 10:36:55 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 10:36:55 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 10:36:55 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 11:12:28 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 14196 (started by gray in K:\stude\笔记\mars)
+2018-12-29 11:12:28 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 11:12:28 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 11:12:29 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 11:12:29 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 11:12:29 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 11:12:30 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 11:12:30 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 11:12:30 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 11:12:30 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 11:12:30 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 11:12:30 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 11:12:30 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 11:12:30 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@57f847af
+2018-12-29 11:12:30 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 11:12:30 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 11:12:30 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.471 seconds (JVM running for 3.369)
+2018-12-29 11:21:59 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 14136 (started by gray in K:\stude\笔记\mars)
+2018-12-29 11:21:59 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 11:21:59 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 11:22:00 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 11:22:00 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 11:22:00 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2018-12-29 11:22:01 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 11:22:01 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 11:22:01 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 11:22:01 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 11:22:01 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 11:22:01 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 11:22:01 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 11:22:01 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@2ae62bb6
+2018-12-29 11:22:01 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 11:22:01 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 11:22:01 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.456 seconds (JVM running for 3.106)
+2018-12-29 11:22:07 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:22:07 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 11:22:07 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 11:22:07 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:22:07 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 11:51:32 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 10384 (started by gray in K:\stude\笔记\mars)
+2018-12-29 11:51:32 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 11:51:32 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 11:51:33 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 11:51:33 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 11:51:33 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2018-12-29 11:51:34 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 11:51:34 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 11:51:34 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 11:51:34 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 11:51:34 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 11:51:34 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 11:51:34 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 11:51:34 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@5cc9d3d0
+2018-12-29 11:51:34 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 11:51:34 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 11:51:34 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.697 seconds (JVM running for 3.474)
+2018-12-29 11:51:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:51:49 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 11:51:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 11:51:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:51:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 11:52:43 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 12132 (started by gray in K:\stude\笔记\mars)
+2018-12-29 11:52:43 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 11:52:43 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 11:52:44 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 11:52:44 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 11:52:44 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 11:52:45 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 11:52:45 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 11:52:45 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 11:52:45 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 11:52:45 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 11:52:45 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 11:52:45 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 11:52:45 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@6f798482
+2018-12-29 11:52:45 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 11:52:45 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 11:52:45 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.531 seconds (JVM running for 3.261)
+2018-12-29 11:53:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:53:13 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 11:53:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 11:53:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:53:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 11:53:18 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 212 (started by gray in K:\stude\笔记\mars)
+2018-12-29 11:53:18 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 11:53:18 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 11:53:19 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 11:53:19 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 11:53:19 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 11:53:20 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 11:53:20 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 11:53:20 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 11:53:20 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 11:53:20 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 11:53:20 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 11:53:20 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 11:53:20 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@7a45d714
+2018-12-29 11:53:20 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 11:53:20 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 11:53:20 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.574 seconds (JVM running for 3.265)
+2018-12-29 11:53:22 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:53:22 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 11:53:22 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 11:53:22 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:53:22 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 11:53:28 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 4396 (started by gray in K:\stude\笔记\mars)
+2018-12-29 11:53:28 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 11:53:28 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 11:53:29 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 11:53:29 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 11:53:29 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 11:53:30 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 11:53:30 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 11:53:30 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 11:53:30 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 11:53:30 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 11:53:30 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 11:53:30 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 11:53:30 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@1b6924cb
+2018-12-29 11:53:30 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 11:53:30 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 11:53:30 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.544 seconds (JVM running for 3.145)
+2018-12-29 11:53:31 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:53:31 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 11:53:31 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 11:53:31 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:53:31 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 11:54:54 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 14036 (started by gray in K:\stude\笔记\mars)
+2018-12-29 11:54:54 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 11:54:54 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 11:54:54 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 11:54:54 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 11:54:54 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2018-12-29 11:54:55 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 11:54:55 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 11:54:55 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 11:54:55 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 11:54:55 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 11:54:55 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 11:54:55 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 11:54:55 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@2121d1f9
+2018-12-29 11:54:55 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 11:54:55 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 11:54:56 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.495 seconds (JVM running for 3.224)
+2018-12-29 11:54:58 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 11:55:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:55:13 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-29 11:55:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-29 11:55:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-29 11:55:13 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-12-29 12:02:27 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 12796 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:02:27 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:02:27 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:02:27 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:02:27 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:02:27 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2018-12-29 12:02:28 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:02:28 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:02:28 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:03:01 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 8584 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:03:01 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:03:01 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:03:01 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:03:01 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:03:01 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 12:03:01 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:03:01 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:03:02 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:03:46 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 12308 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:03:46 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:03:46 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:03:46 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:03:46 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:03:46 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 12:03:46 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:03:46 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:03:47 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:03:57 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 2476 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:03:57 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:03:57 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:03:57 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:03:57 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:03:57 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2018-12-29 12:03:57 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:03:57 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:03:58 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:04:09 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 4280 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:04:09 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:04:09 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:04:09 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:04:09 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:04:09 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2018-12-29 12:04:09 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:04:09 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:04:09 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:04:15 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 12852 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:04:15 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:04:15 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:04:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:04:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:04:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2018-12-29 12:04:16 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:04:16 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:04:16 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:06:16 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 10868 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:06:16 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:06:16 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:06:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:06:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:06:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 12:06:17 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:06:17 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:06:17 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:06:26 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 11580 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:06:26 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:06:26 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:06:26 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:06:26 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:06:26 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 12:06:27 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:06:27 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:06:27 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:07:45 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 11296 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:07:45 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:07:45 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:07:46 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:07:46 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:07:46 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 12:07:46 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:07:46 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:07:46 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:08:32 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 7588 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:08:32 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:08:32 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:08:33 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:08:33 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:08:33 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2018-12-29 12:08:33 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'club': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 12:08:33 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 12:08:34 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 12:09:22 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 5876 (started by gray in K:\stude\笔记\mars)
+2018-12-29 12:09:22 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 12:09:22 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 12:09:22 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 12:09:22 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 12:09:22 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2018-12-29 12:09:23 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 12:09:23 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 12:09:23 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 12:09:23 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 12:09:23 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 12:09:23 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 12:09:23 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 12:09:23 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@49c17ba4
+2018-12-29 12:09:23 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 12:09:23 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 12:09:23 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.439 seconds (JVM running for 3.118)
+2018-12-29 12:09:26 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:24:47 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 12496 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:24:47 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:24:47 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:24:48 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:24:48 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:24:48 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2018-12-29 16:24:48 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jsonConfigLoadBean': Unsatisfied dependency expressed through field 'monitor'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2018-12-29 16:24:48 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-12-29 16:24:48 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitor in org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean required a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.gars.mars.configtest.xlsx.monitor.FileMonitor' in your configuration.
+
+2018-12-29 16:26:38 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 6912 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:26:38 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:26:38 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:26:38 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:26:38 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:26:38 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29ms. Found 0 repository interfaces.
+2018-12-29 16:26:40 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:26:40 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:26:40 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:26:40 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:26:40 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:26:40 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:26:40 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:26:40 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@403c3a01
+2018-12-29 16:26:40 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:26:40 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:26:40 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.879 seconds (JVM running for 3.593)
+2018-12-29 16:26:40 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean - begin to load jsonConfig ...
+2018-12-29 16:26:40 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config/clubConfig.json,load={}
+2018-12-29 16:26:40 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsonConfigLoader - begin to load jsonConfig files...
+2018-12-29 16:26:41 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:26:41 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:26:41 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:27:40 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 11564 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:27:40 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:27:40 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:27:41 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:27:41 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:27:41 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2018-12-29 16:27:42 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:27:42 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:27:42 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:27:42 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:27:42 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:27:42 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:27:42 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:27:42 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@5922d3e9
+2018-12-29 16:27:42 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:27:42 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:27:42 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.566 seconds (JVM running for 3.255)
+2018-12-29 16:27:42 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsonConfigLoadBean - begin to load jsonConfig ...
+2018-12-29 16:28:34 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config/clubConfig.json,load={}
+2018-12-29 16:28:34 [main] INFO  - org.gars.mars.configtest.jsonConfig.JsonConfigLoader - begin to load jsonConfig files...
+2018-12-29 16:28:34 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:28:34 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:28:34 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:30:16 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 9760 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:30:16 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:30:16 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:30:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:30:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:30:16 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2018-12-29 16:30:18 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:30:18 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:30:18 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:30:18 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:30:18 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:30:18 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:30:18 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:30:18 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@6d074b14
+2018-12-29 16:30:18 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:30:18 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:30:18 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.924 seconds (JVM running for 3.682)
+2018-12-29 16:30:18 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:30:18 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:30:18 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:31:12 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 1088 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:31:12 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:31:12 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:31:13 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:31:13 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:31:13 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2018-12-29 16:31:14 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:31:14 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:31:14 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:31:14 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:31:14 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:31:14 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:31:14 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:31:14 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@6c1cfa53
+2018-12-29 16:31:14 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:31:14 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:31:14 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.639 seconds (JVM running for 3.423)
+2018-12-29 16:31:14 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:31:14 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:31:14 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:31:35 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 5892 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:31:35 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:31:35 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:31:36 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:31:36 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:31:36 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2018-12-29 16:31:37 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:31:37 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:31:37 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:31:37 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:31:37 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:31:37 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:31:37 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:31:37 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@57f847af
+2018-12-29 16:31:37 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:31:37 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:31:37 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.51 seconds (JVM running for 3.226)
+2018-12-29 16:31:37 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:31:38 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:31:38 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:32:23 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 7056 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:32:23 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:32:23 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:32:23 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:32:23 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:32:24 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2018-12-29 16:32:25 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:32:25 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:32:25 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:32:25 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:32:25 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:32:25 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:32:25 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:32:25 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@65d8dff8
+2018-12-29 16:32:25 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:32:25 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:32:25 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.648 seconds (JVM running for 3.381)
+2018-12-29 16:32:25 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:32:31 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config/clubConfig.json,load={}
+2018-12-29 16:32:31 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:32:32 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:32:32 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:33:37 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 2028 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:33:37 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:33:37 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:33:37 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:33:37 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:33:37 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2018-12-29 16:33:38 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:33:38 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:33:38 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:33:38 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:33:38 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:33:38 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:33:38 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:33:38 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@4f3faa70
+2018-12-29 16:33:38 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:33:38 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:33:38 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.803 seconds (JVM running for 3.579)
+2018-12-29 16:33:38 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:33:39 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config/clubConfig.json,load={}
+2018-12-29 16:33:39 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:33:39 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:33:39 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:38:34 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 2412 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:38:34 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:38:34 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:38:34 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:38:34 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:38:34 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2018-12-29 16:38:35 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:38:35 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:38:35 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:38:35 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:38:35 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:38:35 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:38:35 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:38:35 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@370c1968
+2018-12-29 16:38:36 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:38:36 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:38:36 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.648 seconds (JVM running for 3.341)
+2018-12-29 16:38:36 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:38:36 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 16:38:36 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:38:36 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:38:36 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:38:46 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 16:38:46 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 16:38:46 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件创建，fileName=clubConfig.json___jb_old___
+2018-12-29 16:38:46 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json___jb_old___,isNew=false
+2018-12-29 16:39:23 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 16:39:23 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 16:40:09 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 16:40:09 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 16:45:09 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 2988 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:45:09 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:45:09 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:45:09 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:45:09 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:45:09 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2018-12-29 16:45:10 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:45:10 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:45:10 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:45:10 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:45:10 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:45:10 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:45:10 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:45:10 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@59b65dce
+2018-12-29 16:45:11 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:45:11 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:45:11 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.49 seconds (JVM running for 3.114)
+2018-12-29 16:45:11 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:45:11 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 16:45:11 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:45:11 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:45:11 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:45:41 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 16:45:41 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 16:47:58 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 11884 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:47:58 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:47:58 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:47:59 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:47:59 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:47:59 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2018-12-29 16:48:00 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:48:00 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:48:00 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:48:00 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:48:00 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:48:00 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:48:00 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:48:00 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@58437801
+2018-12-29 16:48:00 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:48:00 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:48:00 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.616 seconds (JVM running for 3.317)
+2018-12-29 16:48:00 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:48:00 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 16:48:00 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:48:01 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:48:01 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:48:54 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 8280 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:48:54 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:48:54 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:48:55 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:48:55 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:48:55 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2018-12-29 16:48:56 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:48:56 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:48:56 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:48:56 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:48:56 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:48:56 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:48:56 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:48:56 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@5854a18
+2018-12-29 16:48:56 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:48:56 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:48:56 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.56 seconds (JVM running for 3.233)
+2018-12-29 16:48:56 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:50:35 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 16:50:35 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:50:42 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 10224 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:50:42 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:50:42 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:50:42 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:50:42 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:50:42 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2018-12-29 16:50:43 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:50:43 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:50:43 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:50:43 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:50:43 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:50:43 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:50:43 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:50:43 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@3679d92e
+2018-12-29 16:50:43 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:50:43 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:50:43 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.651 seconds (JVM running for 3.331)
+2018-12-29 16:50:43 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:50:43 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 16:50:43 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:50:44 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:50:44 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:58:30 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 8744 (started by gray in K:\stude\笔记\mars)
+2018-12-29 16:58:30 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 16:58:30 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 16:58:31 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 16:58:31 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 16:58:31 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2018-12-29 16:58:32 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 16:58:32 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 16:58:32 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 16:58:32 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 16:58:32 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 16:58:32 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 16:58:32 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 16:58:32 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@23a918c7
+2018-12-29 16:58:32 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 16:58:32 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 16:58:32 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.616 seconds (JVM running for 3.347)
+2018-12-29 16:58:32 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 16:58:32 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 16:58:32 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 16:58:33 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 16:58:33 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 16:58:53 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 16:58:53 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 17:01:36 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 12408 (started by gray in K:\stude\笔记\mars)
+2018-12-29 17:01:36 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 17:01:36 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 17:01:36 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 17:01:36 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 17:01:36 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2018-12-29 17:01:37 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 17:01:37 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 17:01:37 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 17:01:37 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 17:01:37 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 17:01:37 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 17:01:37 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 17:01:37 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@7a3e5cd3
+2018-12-29 17:01:37 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 17:01:37 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 17:01:37 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.874 seconds (JVM running for 3.483)
+2018-12-29 17:01:37 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 17:01:38 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 17:01:38 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2018-12-29 17:01:38 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 17:01:38 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 17:01:38 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 17:02:08 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig100.json
+2018-12-29 17:02:08 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig100.json,isNew=false
+2018-12-29 17:02:38 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 17:02:38 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 17:04:05 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 11692 (started by gray in K:\stude\笔记\mars)
+2018-12-29 17:04:05 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 17:04:05 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 17:04:05 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 17:04:05 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 17:04:05 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 26ms. Found 0 repository interfaces.
+2018-12-29 17:04:06 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 17:04:06 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 17:04:06 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 17:04:06 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 17:04:06 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 17:04:06 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 17:04:06 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 17:04:06 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@1391af3b
+2018-12-29 17:04:06 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 17:04:06 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 17:04:06 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.565 seconds (JVM running for 3.371)
+2018-12-29 17:04:06 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 17:04:14 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 17:04:16 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2018-12-29 17:04:33 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 17:04:34 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 17:04:34 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 17:07:22 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 11504 (started by gray in K:\stude\笔记\mars)
+2018-12-29 17:07:22 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 17:07:22 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 17:07:23 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 17:07:23 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 17:07:23 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 26ms. Found 0 repository interfaces.
+2018-12-29 17:07:24 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 17:07:24 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 17:07:24 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 17:07:24 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 17:07:24 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 17:07:24 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 17:07:24 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 17:07:24 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@70d63e05
+2018-12-29 17:07:24 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 17:07:24 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 17:07:24 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.649 seconds (JVM running for 3.422)
+2018-12-29 17:07:24 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 17:07:24 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 17:07:24 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2018-12-29 17:07:24 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 17:07:25 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 17:07:25 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 17:07:45 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 17:07:45 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 17:08:17 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig100.json
+2018-12-29 17:08:17 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig100.json,isNew=false
+2018-12-29 17:10:31 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 3060 (started by gray in K:\stude\笔记\mars)
+2018-12-29 17:10:31 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 17:10:31 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 17:10:32 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 17:10:32 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 17:10:32 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2018-12-29 17:10:33 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 17:10:33 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 17:10:33 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 17:10:33 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 17:10:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 17:10:33 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 17:10:33 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 17:10:33 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@6c0905f6
+2018-12-29 17:10:33 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 17:10:33 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 17:10:33 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.635 seconds (JVM running for 3.238)
+2018-12-29 17:10:33 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 17:10:33 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config/clubConfig,load={}
+2018-12-29 17:10:33 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2018-12-29 17:10:33 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 17:10:34 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 17:10:34 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 17:15:52 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Starting JsontestApplication on DESKTOP-ID4AJ7R with PID 5484 (started by gray in K:\stude\笔记\mars)
+2018-12-29 17:15:52 [main] DEBUG - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-29 17:15:52 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - The following profiles are active: dev
+2018-12-29 17:15:53 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-29 17:15:53 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-29 17:15:53 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 22ms. Found 0 repository interfaces.
+2018-12-29 17:15:54 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-29 17:15:54 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-29 17:15:54 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-29 17:15:54 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-29 17:15:54 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-29 17:15:54 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-29 17:15:54 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-29 17:15:54 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@77ab22be
+2018-12-29 17:15:54 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-29 17:15:54 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-29 17:15:54 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.JsontestApplication - Started JsontestApplication in 2.598 seconds (JVM running for 3.277)
+2018-12-29 17:15:54 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - begin to load jsonConfig ...
+2018-12-29 17:15:54 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=config,load={}
+2018-12-29 17:15:54 [main] INFO  - org.gars.mars.configtest.jsonConfig.test.Club1000 - begin to load jsonConfig ...
+2018-12-29 17:15:54 [main] INFO  - org.gars.mars.configtest.xlsx.SampleLoader - begin to load sample files...
+2018-12-29 17:15:55 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 添加目录监听,dirName=resources,load={}
+2018-12-29 17:15:55 [main] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - 文件监视器启动
+2018-12-29 17:16:15 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig.json
+2018-12-29 17:16:15 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig.json,isNew=false
+2018-12-29 17:16:35 [Thread-4] INFO  - org.gars.mars.configtest.xlsx.monitor.FileMonitor - ============监听到文件改变，fileName=clubConfig100.json
+2018-12-29 17:16:35 [Thread-4] INFO  - org.gars.mars.configtest.jsonConfig.test.Club - on file change filename = clubConfig100.json,isNew=false

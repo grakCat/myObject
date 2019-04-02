@@ -1,0 +1,31 @@
+2018-12-27 14:49:47 [main] INFO  - org.gars.mars.redis.RedisApplication - Starting RedisApplication on DESKTOP-ID4AJ7R with PID 30260 (started by gray in K:\stude\笔记\mars)
+2018-12-27 14:49:47 [main] DEBUG - org.gars.mars.redis.RedisApplication - Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-12-27 14:49:47 [main] INFO  - org.gars.mars.redis.RedisApplication - The following profiles are active: dev
+2018-12-27 14:49:47 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-27 14:49:47 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-12-27 14:49:47 [main] INFO  - org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+2018-12-27 14:49:48 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2018-12-27 14:49:48 [main] INFO  - org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-27 14:49:48 [main] INFO  - org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2018-12-27 14:49:48 [main] INFO  - org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2018-12-27 14:49:48 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-27 14:49:48 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2018-12-27 14:49:48 [main] INFO  - org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2018-12-27 14:49:48 [main] INFO  - org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@13d186db
+2018-12-27 14:49:48 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2018-12-27 14:49:48 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2018-12-27 14:49:48 [main] INFO  - org.gars.mars.redis.RedisApplication - Started RedisApplication in 2.691 seconds (JVM running for 3.391)
+2018-12-27 14:49:48 [main] INFO  - io.lettuce.core.EpollProvider - Starting without optional epoll library
+2018-12-27 14:49:48 [main] INFO  - io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2018-12-27 14:49:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-27 14:49:49 [main] INFO  - org.springframework.scheduling.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2018-12-27 14:49:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2018-12-27 14:49:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2018-12-27 14:49:49 [main] INFO  - org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.

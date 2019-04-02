@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "aaa",
+      "type": "org.gars.mars.configtest.SetterConf",
+      "sourceType": "org.gars.mars.configtest.SetterConf"
+    },
+    {
+      "name": "sample",
+      "type": "org.gars.mars.configtest.xlsx.SampleConfig",
+      "sourceType": "org.gars.mars.configtest.xlsx.SampleConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aaa.host",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "org.gars.mars.configtest.SetterConf"
+    },
+    {
+      "name": "sample.sample-package",
+      "type": "java.lang.String",
+      "sourceType": "org.gars.mars.configtest.xlsx.SampleConfig"
+    },
+    {
+      "name": "sample.sample-path",
+      "type": "java.lang.String",
+      "sourceType": "org.gars.mars.configtest.xlsx.SampleConfig"
+    }
+  ],
+  "hints": []
+}

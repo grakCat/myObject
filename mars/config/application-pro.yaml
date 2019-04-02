@@ -1,0 +1,16 @@
+string:
+  port: 7777
+
+integer:
+  port: 8888
+
+user:
+  dir: configtest
+  jsondir: config/clubConfig.json
+
+db:
+  link:
+    url: jdbc:mysql://localhost:3309/test
+    driver: com.mysql.jdbc.Driver
+    username: root
+    password: root
