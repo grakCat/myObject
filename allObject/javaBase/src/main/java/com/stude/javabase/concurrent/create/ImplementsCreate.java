@@ -1,4 +1,4 @@
-package com.stude.javabase.concurrent;
+package com.stude.javabase.concurrent.create;
 
 /**
  * Created on 2019/4/7.
@@ -10,6 +10,8 @@ public class ImplementsCreate implements Runnable {
 
     @Override
     public void run() {
-        System.out.println("实现Runnable");
+        //设置当前线程是守护线程（调用当前线程的主线程停止，该线程也会停止）
+        Thread thread = Thread.currentThread();
+        thread.setDaemon(true);
     }
 }
