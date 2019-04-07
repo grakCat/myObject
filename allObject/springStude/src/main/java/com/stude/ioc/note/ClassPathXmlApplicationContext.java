@@ -1,5 +1,6 @@
-package com.stude.ioc;
+package com.stude.ioc.note;
 
+import com.stude.ioc.ClassUtil;
 import org.springframework.util.StringUtils;
 
 import java.lang.reflect.Field;
@@ -14,16 +15,19 @@ import java.util.concurrent.ConcurrentHashMap;
  * @since 1.0
  */
 public class ClassPathXmlApplicationContext {
+
     // 扫包范围
     private String packageName;
     ConcurrentHashMap<String, Object> initBean = null;
+    //开启原型模式
+    private boolean isPrototype = false;
 
-    public ClassPathXmlApplicationContext(String packageName) {
-        this.packageName = packageName;
+    public void setPrototype(boolean isPrototype){
+        this.isPrototype = isPrototype;
     }
 
-    // 使用beanID查找对象
-    public Object getBean(String beanId) throws Exception {
+    public ClassPathXmlApplicationContext(String packageName) throws Exception {
+        this.packageName = packageName;
         // 1.使用反射机制获取该包下所有的类已经存在bean的注解类
         List<Class> listClassesAnnotation = findClassExisService();
         if (listClassesAnnotation == null || listClassesAnnotation.isEmpty()) {
@@ -34,10 +38,21 @@ public class ClassPathXmlApplicationContext {
         if (initBean == null || initBean.isEmpty()) {
             throw new Exception("初始化bean为空!");
         }
+
+        for(Object object : initBean.values()){
+            // 4.使用反射读取类的属性,赋值信息
+            attriAssign(object);
+        }
+    }
+
+    // 使用beanID查找对象
+    public Object getBean(String beanId) throws Exception {
         // 3.使用beanID查找查找对应bean对象
         Object object = initBean.get(beanId);
-        // 4.使用反射读取类的属性,赋值信息
-        attriAssign(object);
+        if(isPrototype){
+            object = object.getClass().newInstance();
+            attriAssign(object);
+        }
         return object;
     }
 

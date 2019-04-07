@@ -1,4 +1,4 @@
-package com.stude.qiao.note.definedAspect;
+package com.stude.aop.note.definedAspect;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

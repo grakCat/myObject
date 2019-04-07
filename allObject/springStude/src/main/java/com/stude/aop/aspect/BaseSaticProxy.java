@@ -1,4 +1,4 @@
-package com.stude.qiao.aspect;
+package com.stude.aop.aspect;
 
 /**
  * Created on 2019/4/5.
@@ -78,7 +78,5 @@ public class BaseSaticProxy {
     public static void main(String[] args) {
         //静态代理
         new UserDaoProxy(new UserDao()).save();
-
-
     }
 }

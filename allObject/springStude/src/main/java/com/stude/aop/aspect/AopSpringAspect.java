@@ -1,4 +1,4 @@
-package com.stude.qiao.aspect;
+package com.stude.aop.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.AfterThrowing;
@@ -23,7 +23,7 @@ public class AopSpringAspect {
     private TransactionUtils transactionUtils;
 
     // // 异常通知
-    @AfterThrowing("execution(* com.stude.qiao.aspect.jdbcaspect.DemoAspect.runAspect(..))")
+    @AfterThrowing("execution(* com.stude.aop.aspect.jdbcaspect.DemoAspect.runAspect(..))")
     public void afterThrowing() {
         System.out.println("程序已经回滚");
         // 获取程序当前事务 进行回滚
@@ -32,7 +32,7 @@ public class AopSpringAspect {
     }
 
     // 环绕通知
-    @Around("execution(* com.stude.qiao.aspect.jdbcaspect.DemoAspect.runAspect(..))")
+    @Around("execution(* com.stude.aop.aspect.jdbcaspect.DemoAspect.runAspect(..))")
     public void around(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
         System.out.println("开启事务");
         TransactionStatus begin = transactionUtils.begin();

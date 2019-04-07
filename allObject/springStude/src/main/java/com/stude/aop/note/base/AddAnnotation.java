@@ -1,4 +1,4 @@
-package com.stude.qiao.note.base;
+package com.stude.aop.note.base;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

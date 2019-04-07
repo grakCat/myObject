@@ -12,13 +12,13 @@
 
     <!-- dao 实例 -->
 
-    <bean id="userService" class="com.stude.qiao.aspect.UserXml"></bean>
+    <bean id="userService" class="com.stude.aop.aspect.UserXml"></bean>
     <!-- 切面类 -->
-    <bean id="aop" class="com.stude.qiao.aspect.AopXmlAspect"></bean>
+    <bean id="aop" class="com.stude.aop.aspect.AopXmlAspect"></bean>
     <!-- Aop配置 -->
     <aop:config>
         <!-- 定义一个切入点表达式： 拦截哪些方法 -->
-        <aop:pointcut expression="execution(* com.stude.qiao.aspect.UserXml.*(..))"
+        <aop:pointcut expression="execution(* com.stude.aop.aspect.UserXml.*(..))"
                       id="pt"/>
         <!-- 切面 -->
         <aop:aspect ref="aop">

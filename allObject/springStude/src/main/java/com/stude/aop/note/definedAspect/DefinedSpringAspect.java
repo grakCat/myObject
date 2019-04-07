@@ -1,4 +1,4 @@
-package com.stude.qiao.note.definedAspect;
+package com.stude.aop.note.definedAspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.AfterThrowing;
@@ -25,7 +25,7 @@ public class DefinedSpringAspect {
     private DefinedTransactionUtils transactionUtils;
 
     // // 异常通知
-    @AfterThrowing(throwing="ex",pointcut = "execution(* com.stude.qiao.note.*.*(..))")
+    @AfterThrowing(throwing="ex",pointcut = "execution(* com.stude.aop.note.*.*(..))")
     public void afterThrowing(Throwable ex) {
         System.out.println("程序已经回滚");
         //普通没添加事物的  异常也会执行，，，，垃圾方法
@@ -35,7 +35,7 @@ public class DefinedSpringAspect {
     }
 
     // 环绕通知
-    @Around("execution(* com.stude.qiao.note.*.*(..))")
+    @Around("execution(* com.stude.aop.note.*.*(..))")
     public void around(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
         TransactionStatus begin = begin(proceedingJoinPoint);
         proceedingJoinPoint.proceed();

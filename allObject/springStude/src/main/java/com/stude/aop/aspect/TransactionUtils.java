@@ -1,4 +1,4 @@
-package com.stude.qiao.aspect;
+package com.stude.aop.aspect;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;

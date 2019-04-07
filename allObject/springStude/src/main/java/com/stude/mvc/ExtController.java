@@ -1,10 +1,17 @@
-package com.stude.mvc;
-
-/**
- * Created on 2019/4/7.
- *
- * @author Grak
- * @since 1.0
- */
-public @interface ExtController {
-}
+//package com.stude.mvc;
+//
+//import java.lang.annotation.ElementType;
+//import java.lang.annotation.Retention;
+//import java.lang.annotation.RetentionPolicy;
+//import java.lang.annotation.Target;
+//
+///**
+// * Created on 2019/4/7.
+// *
+// * @author Grak
+// * @since 1.0
+// */
+//@Target(ElementType.TYPE)
+//@Retention(RetentionPolicy.RUNTIME)
+//public @interface ExtController {
+//}

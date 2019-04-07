@@ -1,6 +1,6 @@
-package com.stude.qiao.note;
+package com.stude.aop.note;
 
-import com.stude.qiao.note.definedAspect.ExtTransaction;
+import com.stude.aop.note.definedAspect.ExtTransaction;
 import org.springframework.stereotype.Component;
 
 /**

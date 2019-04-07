@@ -1,4 +1,4 @@
-package com.stude.qiao.note.definedAspect;
+package com.stude.aop.note.definedAspect;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;

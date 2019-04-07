@@ -29,6 +29,7 @@ public class GsonUse {
 
     }
 
+
     private void gson01() {
         //基本数据类型解析
         int intData = gson.fromJson("100", int.class);

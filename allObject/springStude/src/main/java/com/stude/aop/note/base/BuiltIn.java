@@ -1,4 +1,4 @@
-package com.stude.qiao.note.base;
+package com.stude.aop.note.base;
 
 import com.google.gson.Gson;
 
@@ -31,7 +31,7 @@ public class BuiltIn {
 
     public static void main(String[] args) throws ClassNotFoundException {
         //反射获取类里面的所有方法
-        Class<?> forName = Class.forName("com.stude.qiao.note.base.BuiltIn");
+        Class<?> forName = Class.forName("com.stude.aop.note.base.BuiltIn");
         Method[] dec = forName.getDeclaredMethods();
         for(Method method : dec){
             //找到标记有AddAnnotation的方法

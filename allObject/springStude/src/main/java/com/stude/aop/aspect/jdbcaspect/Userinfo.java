@@ -1,4 +1,4 @@
-package com.stude.qiao.aspect.jdbcaspect;
+package com.stude.aop.aspect.jdbcaspect;
 
 /**
  * Created on 2019/4/6.

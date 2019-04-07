@@ -1,29 +1,17 @@
-package com.stude;
-
-import com.stude.aop.aspect.jdbcaspect.DemoAspect;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ConfigurableApplicationContext;
-import org.springframework.context.annotation.ImportResource;
-
-@ImportResource("classpath:aop.xml")
-@SpringBootApplication
-public class QiaoApplication {
-
-    public static void main(String[] args) {
-        ConfigurableApplicationContext ctx = SpringApplication.run(QiaoApplication.class, args);
-
-        //AopAspect执行
-//        User myconf = (User) ctx.getBean("user");
-//        myconf.add("test001");
-
-        //AopXmlAspect执行
-//        UserXml user = (UserXml) ctx.getBean("userXml");
-//        user.add("sssss");
-
-        DemoAspect user = (DemoAspect) ctx.getBean("demoAspect");
-        user.runAspect();
-
-
-    }
-}
+//package com.stude.mvc;
+//
+//import com.stude.QiaoApplication;
+//import org.springframework.boot.SpringApplication;
+//import org.springframework.boot.autoconfigure.SpringBootApplication;
+//
+//import javax.servlet.ServletException;
+//
+//@SpringBootApplication
+//public class MvcApplication {
+//
+//    public static void main(String[] args) throws ServletException {
+//        SpringApplication.run(QiaoApplication.class, args);
+//        ExtDispatcherServlet ctx = new ExtDispatcherServlet("com.stude.mvc");
+//        ctx.init();
+//    }
+//}

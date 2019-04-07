@@ -1,17 +1,16 @@
-package com.stude;
+package com.stude.aop;
 
 import com.stude.aop.aspect.jdbcaspect.DemoAspect;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
-import org.springframework.context.annotation.ImportResource;
 
-@ImportResource("classpath:aop.xml")
+//@ImportResource("classpath:aop.xml")
 @SpringBootApplication
-public class QiaoApplication {
+public class AopApplication {
 
     public static void main(String[] args) {
-        ConfigurableApplicationContext ctx = SpringApplication.run(QiaoApplication.class, args);
+        ConfigurableApplicationContext ctx = SpringApplication.run(AopApplication.class, args);
 
         //AopAspect执行
 //        User myconf = (User) ctx.getBean("user");

@@ -1,4 +1,4 @@
-package com.stude.qiao.aspect;
+package com.stude.aop.aspect;
 
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;

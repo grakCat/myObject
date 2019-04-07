@@ -1,6 +1,6 @@
-package com.stude.qiao;
+package com.stude;
 
-import com.stude.qiao.aspect.jdbcaspect.DemoAspect;
+import com.stude.aop.aspect.UserXml;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
@@ -18,11 +18,11 @@ public class QiaoApplication {
 //        myconf.add("test001");
 
         //AopXmlAspect执行
-//        UserXml user = (UserXml) ctx.getBean("userXml");
-//        user.add("sssss");
+        UserXml user = (UserXml) ctx.getBean("userXml");
+        user.add("sssss");
 
-        DemoAspect user = (DemoAspect) ctx.getBean("demoAspect");
-        user.runAspect();
+//        DemoAspect user = (DemoAspect) ctx.getBean("demoAspect");
+//        user.runAspect();
 
 
     }

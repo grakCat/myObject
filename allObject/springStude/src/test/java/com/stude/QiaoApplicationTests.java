@@ -1,4 +1,4 @@
-package com.stude.qiao;
+package com.stude;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

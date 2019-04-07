@@ -1,4 +1,4 @@
-package com.stude.qiao.aspect;
+package com.stude.aop.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.*;
@@ -17,32 +17,32 @@ import org.springframework.stereotype.Component;
 public class AopAspect {
 
     // 前置通知（优先级2）
-    @Before("execution(* com.stude.qiao.aspect.User.add(..))")
+    @Before("execution(* com.stude.aop.aspect.User.add(..))")
     public void begin() {
         System.out.println("前置通知");
     }
 
     //
     // 后置通知（优先级5）
-    @After("execution(* com.stude.qiao.aspect.User.add(..))")
+    @After("execution(* com.stude.aop.aspect.User.add(..))")
     public void commit() {
         System.out.println("后置通知");
     }
 
     // 运行通知（优先级6）
-    @AfterReturning("execution(* com.stude.qiao.aspect.User.add(..))")
+    @AfterReturning("execution(* com.stude.aop.aspect.User.add(..))")
     public void returning() {
         System.out.println("运行通知");
     }
 
     // 异常通知
-    @AfterThrowing("execution(* com.stude.qiao.aspect.User.add(..))")
+    @AfterThrowing("execution(* com.stude.aop.aspect.User.add(..))")
     public void afterThrowing() {
         System.out.println("异常通知");
     }
 
     // 环绕通知
-    @Around("execution(* com.stude.qiao.aspect.User.add(..))")
+    @Around("execution(* com.stude.aop.aspect.User.add(..))")
     public void around(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
         System.out.println("环绕通知开始");//(优先级1)
         Object obj = proceedingJoinPoint.proceed();

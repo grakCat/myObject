@@ -1,4 +1,4 @@
-package com.itmayiedu.utils;
+package com.stude.mvc;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 
-public class ClassUtil {
+public class MvcClassUtil {
 
 	/**
 	 * 取得某个接口下所有实现这个接口的类
