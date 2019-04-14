@@ -4,6 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Type;
 import java.util.HashMap;
 import java.util.Map;
@@ -23,19 +24,26 @@ public class ReflectCore {
 
     private ReflectModel model;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException {
         ReflectCore core = new ReflectCore();
-        core.run();
+//        core.run();
+        core.getObject();
     }
 
 
     private void run() {
+        String path = "com.gray.game.grayreflect.ReflectModel";
         try {
-            model = (ReflectModel) Class.forName(path).newInstance();
+            //获取对象实例
+            ReflectModel model = (ReflectModel) Class.forName(path).newInstance();
             if (model != null) {
-                log.debug("实例化成功", path);
+                System.out.println("实例化ReflectModel成功！");
+                //开始设置值
+                Field field = model.getClass().getField("color");
+                String vobj = "大豆";
+                Object object = parseValue(field.getType(), vobj);
+                field.set(model, object);
             }
-            setValue();
         } catch (Exception e) {
             log.debug("实例化失败", path);
         }
@@ -62,6 +70,14 @@ public class ReflectCore {
         } catch (Exception e) {
             log.debug("赋值失败", path);
         }
+    }
+
+    public void getObject() throws ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
+        //获取类信息
+        Class<?> c1 = Class.forName("ReflectModel");
+        Class<?> c2 = ReflectModel.class;
+        //实例化
+        Object newInstance = c2.newInstance();
     }
 
     /**

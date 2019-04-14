@@ -1,9 +1,6 @@
 package org.gars.mars.future;
 
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.FutureTask;
+import java.util.concurrent.*;
 
 /**
  * Created on 2018/11/9.
@@ -14,19 +11,23 @@ import java.util.concurrent.FutureTask;
 public class Test {
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
-        long startTime = System.currentTimeMillis();
-        FutureInfo info = new FutureInfo();
-        FutureTask<FutureInfo> task = new FutureTask<>(new FutureCallable(info));
         ExecutorService executor = Executors.newFixedThreadPool(1);
-        executor.submit(task);
-        executor.shutdown();
-        // 第二步 去超市购买食材
-        // 第三步 用厨具烹饪食材
-        FutureInfo chuju = task.get();
-//        if (!task.isDone()) {  // 联系快递员，询问是否到货
-//            System.out.println("第三步：厨具还没到，心情好就等着（心情不好就调用cancel方法取消订单）");
-//        }
-
-        System.out.println("总共用时" + (System.currentTimeMillis() - startTime) + "ms");
+        try {
+            //异步执行任务
+            Callable callable = new FutureCallable(new FutureInfo());
+            FutureTask<FutureInfo> task = new FutureTask<>(callable);
+            //任务提交给线程池
+            executor.submit(task);
+            //任务是否已经执行完毕
+            boolean isDone = task.isDone();
+            //任务是否取消
+            boolean isCanceller = task.isCancelled();
+            //取消任务(true 强制停止，false已经开始的任务不会停止)
+//            task.cancel(true);
+            //获取结果的时候会柱塞等待结果
+            FutureInfo chuju = task.get();
+        }finally {
+            executor.shutdown();
+        }
     }
 }

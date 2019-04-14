@@ -10,6 +10,7 @@ import com.lmax.disruptor.WorkHandler;
  * @since 1.0
  */
 public class C11EventHandler implements EventHandler<LongEvent>, WorkHandler<LongEvent> {
+
     @Override
     public void onEvent(LongEvent event, long sequence, boolean endOfBatch) throws Exception {
         long number = event.getNumber();

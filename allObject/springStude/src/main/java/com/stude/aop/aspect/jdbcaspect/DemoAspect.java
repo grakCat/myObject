@@ -59,7 +59,7 @@ public class DemoAspect {
             }
         }
         System.out.println("用户信息：" + user.findById(uid));
-        int m = 1/0;//模拟异常，回滚提交
+//        int m = 1/0;//模拟异常，回滚提交
         user.update("李白","ww","麻花",uid);
         System.out.println("用户修改：" + user.findById(uid));
 //        user.delete(uid);

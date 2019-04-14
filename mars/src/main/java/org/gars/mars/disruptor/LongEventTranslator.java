@@ -4,8 +4,9 @@ import com.lmax.disruptor.EventTranslatorOneArg;
 
 /**
  * Created on 2019/1/11.
- *
- * @author grayCat
+ * LongEvent runBuffer中存储的对象
+ * SendMessage 不同生成者发过来的消息
+ * 这里就是把SendMessage转化成LongEvent
  * @since 1.0
  */
 public class LongEventTranslator implements EventTranslatorOneArg<LongEvent, SendMessage> {
