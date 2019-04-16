@@ -1,0 +1,39 @@
+2019-04-14 21:39:44 [main] INFO  - com.stude.consumer.ConsumerApplication - Starting ConsumerApplication on PV-12 with PID 5400 (D:\myObject\dubbo\consumer\target\classes started by Admin in D:\myObject\mars)
+2019-04-14 21:39:44 [main] INFO  - com.stude.consumer.ConsumerApplication - The following profiles are active: dev
+2019-04-14 21:39:44 [main] INFO  - com.stude.consumer.ConsumerApplication - Started ConsumerApplication in 0.839 seconds (JVM running for 1.711)
+2019-04-14 21:40:18 [main] INFO  - com.stude.consumer.ConsumerApplication - Starting ConsumerApplication on PV-12 with PID 13656 (D:\myObject\dubbo\consumer\target\classes started by Admin in D:\myObject\mars)
+2019-04-14 21:40:18 [main] INFO  - com.stude.consumer.ConsumerApplication - The following profiles are active: dev
+2019-04-14 21:40:19 [main] INFO  - com.stude.consumer.ConsumerApplication - Started ConsumerApplication in 0.767 seconds (JVM running for 1.321)
+2019-04-14 21:40:45 [main] INFO  - com.stude.consumer.ConsumerApplication - Starting ConsumerApplication on PV-12 with PID 12560 (D:\myObject\dubbo\consumer\target\classes started by Admin in D:\myObject\mars)
+2019-04-14 21:40:45 [main] INFO  - com.stude.consumer.ConsumerApplication - The following profiles are active: dev
+2019-04-14 21:40:46 [main] INFO  - com.stude.consumer.ConsumerApplication - Started ConsumerApplication in 0.76 seconds (JVM running for 1.31)
+2019-04-14 21:41:06 [main] INFO  - com.stude.consumer.ConsumerApplication - Starting ConsumerApplication on PV-12 with PID 8972 (D:\myObject\dubbo\consumer\target\classes started by Admin in D:\myObject\mars)
+2019-04-14 21:41:06 [main] INFO  - com.stude.consumer.ConsumerApplication - The following profiles are active: dev
+2019-04-14 21:41:07 [main] INFO  - com.stude.consumer.ConsumerApplication - Started ConsumerApplication in 0.766 seconds (JVM running for 1.304)
+2019-04-14 21:41:18 [main] INFO  - com.stude.consumer.ConsumerApplication - Starting ConsumerApplication on PV-12 with PID 5944 (D:\myObject\dubbo\consumer\target\classes started by Admin in D:\myObject\mars)
+2019-04-14 21:41:18 [main] INFO  - com.stude.consumer.ConsumerApplication - The following profiles are active: dev
+2019-04-14 21:41:19 [main] INFO  - com.stude.consumer.ConsumerApplication - Started ConsumerApplication in 0.766 seconds (JVM running for 1.344)
+2019-04-14 21:43:45 [main] INFO  - com.stude.consumer.ConsumerApplication - Starting ConsumerApplication on PV-12 with PID 6200 (D:\myObject\dubbo\consumer\target\classes started by Admin in D:\myObject\mars)
+2019-04-14 21:43:45 [main] INFO  - com.stude.consumer.ConsumerApplication - The following profiles are active: dev
+2019-04-14 21:43:45 [main] WARN  - org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'orderService': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.stude.dubbo.dubbo.UserService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-04-14 21:43:45 [main] INFO  - org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-04-14 21:43:45 [main] ERROR - org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.stude.consumer.OrderService required a bean of type 'com.stude.dubbo.dubbo.UserService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.stude.dubbo.dubbo.UserService' in your configuration.
+

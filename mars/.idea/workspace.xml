@@ -5,205 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aeb3f49-3d0d-4e0a-826a-e76f1d1b5d17" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../allObject/helloworld/src/main/java/com/stude/helloworld/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../allObject/helloworld/src/main/java/com/stude/helloworld/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/MainConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/consumer/src/main/resources/consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allObject/springStude/src/main/java/com/stude/aop/aspect/jdbcaspect/DemoAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../allObject/springStude/src/main/java/com/stude/aop/aspect/jdbcaspect/DemoAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allObject/springStude/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../allObject/springStude/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MyDubboConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServer007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/spring_boot/src/main/java/com/stude/spring_boot/HelloCpntroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/spring_boot/src/main/resources/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_autoconfigure_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_starter_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/ConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/ConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/MainConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/consumer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/consumer/src/main/resources/consumer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/ProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/ProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/provider/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_5_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_5_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_4_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_30_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_30_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_11_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_metrics_0_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_metrics_0_11_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_sigar_1_6_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_sigar_1_6_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/room_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/room_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/C11EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/C11EventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/C12EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/C12EventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/LongEventTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/LongEventTranslator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gars/mars/future/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gars/mars/future/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gars/mars/reflect/ReflectCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gars/mars/reflect/ReflectCore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/MarsApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/ConfigtestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/MyConf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/PropConf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/SetterConf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/jsonConfig/JsonConfigLoadBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/jsonConfig/test/Club.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/jsonConfig/test/Club1000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/jsonConfig/test/JsontestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/ExcelUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/ExcelUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/Sample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/SampleConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/SampleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/SampleFactoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/SampleLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/SampleReflectHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/monitor/FileAlterationListen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/monitor/FileLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/monitor/FileMonitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/configtest/xlsx/sample/lsyguimajiang/LGMJConfiginfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/C11EventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/C12EventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/C21EventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/C22EventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/LongEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/LongEventFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/LongEventTranslator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/disruptor/SendMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/future/FutureCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/future/FutureInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/future/MyFuture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/future/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/grpc/data/HelloWorldServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/ClientMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/ClusterMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/ClusterMessageDecoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/ClusterMessageEncoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/NettyClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/NettyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/NettyServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/NettyServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/PFMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/ProtostuffUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/netty/ServerHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/pool/CommonThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/pool/Constant$ExecutorType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/pool/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/ClassUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/FileHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/Java2Pb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/ProtobufMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/ReflectionUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/RuntimeFieldType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/ToPb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/UseMM$ReqChiGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/UseMM$ReqPengGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/UseMM$RespSanGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/proto/UseMM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/quartz/MyQuartz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/quartz/TaskInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/redis/RedisApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/redis/RedisUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/reflect/ReflectCore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gars/mars/reflect/ReflectModel.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -214,6 +53,7 @@
     <ignored path="$PROJECT_DIR$/consumer/target/" />
     <ignored path="$PROJECT_DIR$/../dubbo/provider/target/" />
     <ignored path="$PROJECT_DIR$/../dubbo/consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../dubbo/spring_boot/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,108 +84,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserAddress.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1010#1011#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1098#1099#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-                <element signature="e#1166#1167#0" expanded="true" />
-                <element signature="e#1216#1217#0" expanded="true" />
-                <element signature="e#1258#1259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/ProviderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/ConsumerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MainApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/MainConsumer.java">
+        <entry file="file://$PROJECT_DIR$/config/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderController.java">
+        <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/src/main/java/com/stude/spring_boot/HelloCpntroller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="450">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -354,21 +114,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/src/main/resources/templates/success.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="175">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/resources/consumer.xml">
+        <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/src/main/java/com/stude/spring_boot/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="175">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/application.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/application-dev.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mvnw.cmd">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-576" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/my.properties">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -377,6 +168,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -400,15 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/xlsx/SampleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/xlsx/sample/lsyguimajiang/LGMJConfiginfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/xlsx/SampleLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/ConfigtestApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/redis/RedisUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/redis/RedisApplication.java" />
-        <option value="$PROJECT_DIR$/config/logback.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/jsonConfig/JsontestApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/jsonConfig/Club.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/jsonConfig/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/jsonConfig/TheURLLoadBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/configtest/jsonConfig/test/UseClub.java" />
@@ -435,22 +218,31 @@
         <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/gars/mars/reflect/ReflectCore.java" />
         <option value="$PROJECT_DIR$/../dubbo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserService.java" />
         <option value="$PROJECT_DIR$/../dubbo/provider/pom.xml" />
         <option value="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserAddress.java" />
-        <option value="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider02.xml" />
         <option value="$PROJECT_DIR$/../dubbo/consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/ConsumerApplication.java" />
         <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderService.java" />
         <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/MainConsumer.java" />
         <option value="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/OrderService.java" />
         <option value="$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider.xml" />
         <option value="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MainApplication.java" />
         <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/resources/consumer.xml" />
-        <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderController.java" />
+        <option value="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/ProviderApplication.java" />
+        <option value="$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserService.java" />
+        <option value="$PROJECT_DIR$/../dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/ConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServer007.java" />
+        <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/MyDubboConfig.java" />
+        <option value="$PROJECT_DIR$/../dubbo/provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MyDubboConfig.java" />
+        <option value="$PROJECT_DIR$/../dubbo/spring_boot/src/main/resources/templates/success.html" />
+        <option value="$PROJECT_DIR$/../dubbo/spring_boot/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo/spring_boot/src/main/java/com/stude/spring_boot/HelloCpntroller.java" />
       </list>
     </option>
   </component>
@@ -499,10 +291,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="580" />
-    <option name="y" value="126" />
-    <option name="width" value="1498" />
-    <option name="height" value="859" />
+    <option name="x" value="636" />
+    <option name="y" value="89" />
+    <option name="width" value="1252" />
+    <option name="height" value="907" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -523,37 +315,45 @@
             <path>
               <item name="mars" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mars" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mars" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mars" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -563,6 +363,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -578,8 +379,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555255506767" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../allObject" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555423615555" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -587,15 +388,13 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="org.gars.mars" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myObject\dubbo\provider\src\main\resources" />
+      <recent name="K:\stude\笔记\mars\src\test\java\org\gars\mars\quartzTest" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\myObject\dubbo\src\main\java\com\stude\dubbo\dubbo" />
-      <recent name="D:\myObject\dubbo\consumer\src\main\resources" />
-      <recent name="D:\myObject\dubbo\src\main\resources" />
-      <recent name="K:\stude\笔记\mars\src\main\java\org\gars\mars\disruptor" />
-      <recent name="K:\stude\笔记\mars\config" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.stude.provider" />
+      <recent name="org.gars.mars" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.gars.mars.grpc" />
@@ -604,9 +403,12 @@
       <recent name="org.gars.mars.proto" />
       <recent name="org.gars.mars.netty" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\myObject\dubbo\provider\src\main\resources" />
-      <recent name="K:\stude\笔记\mars\src\test\java\org\gars\mars\quartzTest" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myObject\dubbo\src\main\java\com\stude\dubbo\dubbo" />
+      <recent name="D:\myObject\dubbo\consumer\src\main\resources" />
+      <recent name="D:\myObject\dubbo\src\main\resources" />
+      <recent name="K:\stude\笔记\mars\src\main\java\org\gars\mars\disruptor" />
+      <recent name="K:\stude\笔记\mars\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -621,7 +423,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainConsumer">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -662,7 +464,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stude.consumer.*" />
+          <option name="PATTERN" value="com.stude.provider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -717,6 +519,13 @@
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stude.spring_boot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ConsumeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="consume" />
@@ -791,6 +600,7 @@
       <item itemvalue="Spring Boot.CoreApplication" />
       <item itemvalue="Spring Boot.ProviderApplication" />
       <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
@@ -845,6 +655,9 @@
       <workItem from="1555224470917" duration="8584000" />
       <workItem from="1555247774925" duration="5368000" />
       <workItem from="1555255289182" duration="391000" />
+      <workItem from="1555332109360" duration="7469000" />
+      <workItem from="1555418968853" duration="62000" />
+      <workItem from="1555419053341" duration="4325000" />
     </task>
     <servers />
   </component>
@@ -881,25 +694,24 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92860000" />
+    <option name="totallyTimeSpent" value="104716000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="580" y="126" width="1498" height="859" extended-state="0" />
+    <frame x="636" y="89" width="1252" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23226704" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2558725" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32739422" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.1248227" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7844228" weight="0.46585903" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.44859812" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7844228" weight="0.37383178" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49839488" weight="0.329661" />
@@ -911,7 +723,7 @@
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="14" sideWeight="0.49861112" visible="true" weight="0.40567377" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -922,8 +734,9 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Maven" order="10" weight="0.18636996" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.19481383" />
       <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -945,120 +758,6 @@
     <SUITE FILE_PATH="coverage/mars$GenClassByExcel.coverage" NAME="GenClassByExcel Coverage Results" MODIFIED="1554171693661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/SendMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-          <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/dsl/ProducerType.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1925">
-          <caret line="81" selection-start-line="81" selection-end-line="99" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47225">
-          <caret line="1972" column="19" selection-start-line="1972" selection-start-column="11" selection-end-line="1972" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/reflect/ReflectModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/reflect/ReflectCore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="79" column="46" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application-dev.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/C12EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/C11EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/WorkProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1675">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7750">
-          <caret line="351" column="31" selection-start-line="351" selection-start-column="18" selection-end-line="351" selection-end-column="31" />
-          <folding>
-            <element signature="e#15215#15216#0" expanded="true" />
-            <element signature="e#15264#15265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/LongEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/gars/mars/disruptor/LongEventTranslator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/mvnw.cmd" />
-    <entry file="file://$PROJECT_DIR$/../dubbo/mvnw" />
     <entry file="file://$PROJECT_DIR$/config/application-pro.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1068,13 +767,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo.java" />
     <entry file="file://$PROJECT_DIR$/../dubbo/src/main/resources/logback.xml" />
-    <entry file="file://$PROJECT_DIR$/config/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../core/mvnw.cmd" />
     <entry file="file://$PROJECT_DIR$/../core/mvnw" />
     <entry file="file://$PROJECT_DIR$/../core/src/main/java/com/stude/core/CoreApplication.java">
@@ -1108,19 +800,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider02.xml" />
     <entry file="file://$PROJECT_DIR$/../dubbo/consumer/mvnw" />
     <entry file="file://$PROJECT_DIR$/../dubbo/consumer/mvnw.cmd" />
-    <entry file="file://$PROJECT_DIR$/../dubbo/provider/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="32" selection-start-line="32" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/consumer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1149,20 +831,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserService.java">
+    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider.xml" />
+    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MainApplication.java" />
+    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/resources/consumer.xml" />
+    <entry file="file://$PROJECT_DIR$/../dubbo/provider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="200">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/MainConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderController.java" />
+    <entry file="jar://D:/mavenRes/com/alibaba/dubbo/2.6.2/dubbo-2.6.2.jar!/com/alibaba/dubbo/config/annotation/Reference.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="114">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenRes/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/util/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
         </state>
       </provider>
     </entry>
@@ -1175,7 +866,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="376">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding>
             <element signature="e#380#381#0" expanded="true" />
@@ -1206,75 +897,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/resources/provider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/ProviderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="200">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        <state relative-caret-position="500">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/UserServer007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/ConsumerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="300">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MainApplication.java">
+    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="400">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/resources/consumer.xml">
+    <entry file="file://$PROJECT_DIR$/../dubbo/src/main/java/com/stude/dubbo/dubbo/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/MainConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubbo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="725">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/java/com/stude/consumer/OrderController.java">
+    <entry file="file://$PROJECT_DIR$/../dubbo/consumer/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="250">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/provider/src/main/java/com/stude/provider/MyDubboConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/my.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application-dev.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/src/main/resources/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/src/main/java/com/stude/spring_boot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dubbo/spring_boot/src/main/java/com/stude/spring_boot/HelloCpntroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
